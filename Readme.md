@@ -1,7 +1,7 @@
 Based on article of:
 https://amagiacademy.com/blog/posts/2020-02-26/node-container-cpu
 
-install with vegata from:
+install vegata load testing from:
 ```
 brew update && brew install vegeta
 ```
