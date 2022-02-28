@@ -1,0 +1,11 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-docker.js",
+  "scripts": {
+    "start": "node node-docker.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
